@@ -1,4 +1,5 @@
 i am txt2 file
 i am txt2 file
 i am txt2 file
-
+i am txt2.txt
+i am txt2.txt
